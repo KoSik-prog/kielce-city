@@ -3,137 +3,147 @@
     {
       "path": "scenery/kielceSCN.bgl",
       "size": 220,
-      "date": 132521542270548962
+      "date": 132521797268707924
     },
     {
       "path": "scenery/KIELCESHP.BGL",
       "size": 1161,
-      "date": 132521542270608834
+      "date": 132521797268777735
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 9613022,
-      "date": 132521542727731900
+      "size": 9613306,
+      "date": 132521797402846924
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 132521542371042726
+      "date": 132521797369769840
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 132521542370992859
+      "date": 132521797369719971
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_TEXTURE.PNG.DDS",
       "size": 2796344,
-      "date": 132521542290023976
+      "date": 132521797288659688
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132521542290004029
+      "date": 132521797288629769
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_EMISSIVE.PNG.DDS",
       "size": 699192,
-      "date": 132521542393400294
+      "date": 132521797391726313
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 132521542393390311
+      "date": 132521797391706370
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132521542285616319
+      "date": 132521797284579784
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132521542285596368
+      "date": 132521797284559835
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_ROUGH.PNG.DDS",
       "size": 1398276,
-      "date": 132521542369806036
+      "date": 132521797368622912
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_LOGO_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132521542369796061
+      "date": 132521797368592985
+    },
+    {
+      "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_EMISSIVE.PNG.DDS",
+      "size": 699192,
+      "date": 132521797284051194
+    },
+    {
+      "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_EMISSIVE.PNG.DDS.json",
+      "size": 102,
+      "date": 132521797284031248
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_MAIN.PNG.DDS",
       "size": 1398256,
-      "date": 132521542284658879
+      "date": 132521797282495225
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_MAIN.PNG.DDS.json",
       "size": 119,
-      "date": 132521542284638931
+      "date": 132521797282485252
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132521542364679334
+      "date": 132521797363579999
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132521542364669359
+      "date": 132521797363560049
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_ROUGH.PNG.DDS",
       "size": 1398276,
-      "date": 132521542392592312
+      "date": 132521797390893234
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132521542392582340
+      "date": 132521797390873287
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_EMISSIVE.PNG.DDS",
       "size": 11184952,
-      "date": 132521542283271556
+      "date": 132521797281297390
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 132521542283181800
+      "date": 132521797281077977
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_MAIN.PNG.DDS",
       "size": 22369776,
-      "date": 132521542386373389
+      "date": 132521797384819178
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_MAIN.PNG.DDS.json",
       "size": 119,
-      "date": 132521542386094138
+      "date": 132521797384639657
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_NORM.PNG.DDS",
       "size": 22369776,
-      "date": 132521542399126766
+      "date": 132521797397321357
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 132521542398947246
+      "date": 132521797397131861
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_ROUGH.PNG.DDS",
       "size": 22369796,
-      "date": 132521542364287929
+      "date": 132521797363181385
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132521542364148270
+      "date": 132521797363041435
     }
   ]
 }
