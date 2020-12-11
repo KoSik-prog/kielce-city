@@ -1,5 +1,4 @@
 # kielce-city
-kielce-city
 
 Scenery of the city of Kielce (Poland) for Microsoft Flight Simulator 2020
 
