@@ -1,10 +1,10 @@
 # kielce-city
 
-Scenery of the city of Kielce (Poland) for Microsoft Flight Simulator 2020
+The scenery of city Kielce in Poland for Microsoft Flight Simulator 2020
 
 Added:
-- the building of the PKS bus station
+- the PKS bus station building
 
 
 How to install?
-Copy the entire "kielce" directory to the Community directory
+Copy the "kielce" directory to the Community directory
