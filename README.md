@@ -5,6 +5,7 @@ The scenery of city Kielce in Poland for Microsoft Flight Simulator 2020
 Added:
 - PKS bus station building
 - Suzuki Arena stadium
+- Radio mast Telegraf
 
 
 How to install?
