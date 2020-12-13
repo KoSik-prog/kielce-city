@@ -3,17 +3,17 @@
     {
       "path": "scenery/kielceSCN.bgl",
       "size": 220,
-      "date": 132521797268707924
+      "date": 132523244130503908
     },
     {
       "path": "scenery/KIELCESHP.BGL",
-      "size": 1161,
-      "date": 132521797268777735
+      "size": 2230,
+      "date": 132522551727415625
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 9613306,
-      "date": 132521797402846924
+      "size": 9673778,
+      "date": 132523244162320843
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_NORM.PNG.DDS",
@@ -144,6 +144,66 @@
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_ROUGH.PNG.DDS.json",
       "size": 191,
       "date": 132521797363041435
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_NORM.PNG.DDS",
+      "size": 5592560,
+      "date": 132523244142604996
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_NORM.PNG.DDS.json",
+      "size": 177,
+      "date": 132523244142545158
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132523244131042461
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_NORM.PNG.DDS.json",
+      "size": 160,
+      "date": 132523244131022513
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_ROUGH.PNG.DDS",
+      "size": 1398276,
+      "date": 132523244140819767
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_ROUGH.PNG.DDS.json",
+      "size": 191,
+      "date": 132523244140799856
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_TEXTURE.PNG.DDS",
+      "size": 1398256,
+      "date": 132523244144037383
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_OUT_TEXTURE.PNG.DDS.json",
+      "size": 119,
+      "date": 132523244144017438
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_ROUGH.PNG.DDS",
+      "size": 5592580,
+      "date": 132523244161811924
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_ROUGH.PNG.DDS.json",
+      "size": 191,
+      "date": 132523244161762062
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_TEXTURE.PNG.DDS",
+      "size": 5592560,
+      "date": 132523244135580326
+    },
+    {
+      "path": "scenery/TEXTURE/STADION_TEXTURE.PNG.DDS.json",
+      "size": 119,
+      "date": 132523244135520486
     }
   ]
 }
