@@ -2,208 +2,238 @@
   "content": [
     {
       "path": "scenery/kielceSCN.bgl",
-      "size": 300,
-      "date": 132523663522767375
+      "size": 364,
+      "date": 132524132565685875
     },
     {
       "path": "scenery/KIELCESHP.BGL",
-      "size": 2465,
-      "date": 132523663522906996
+      "size": 4022,
+      "date": 132524132565875366
     },
     {
       "path": "scenery/modelLib.BGL",
-      "size": 2226230,
-      "date": 132523668952490182
+      "size": 2360668,
+      "date": 132524132633411521
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_MAIN.PNG.DDS",
+      "size": 1398256,
+      "date": 132524132572509396
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_MAIN.PNG.DDS.json",
+      "size": 119,
+      "date": 132524132572489444
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_NORM.PNG.DDS",
+      "size": 1398256,
+      "date": 132524132573257397
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_NORM.PNG.DDS.json",
+      "size": 177,
+      "date": 132524132573197553
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_ROUGH.PNG.DDS",
+      "size": 1398276,
+      "date": 132524132571372438
+    },
+    {
+      "path": "scenery/TEXTURE/AMFITEATR_TEXTURE_ROUGH.PNG.DDS.json",
+      "size": 191,
+      "date": 132524132571352489
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_NORM.PNG.DDS",
-      "size": 5592560,
-      "date": 132523660692750475
+      "size": 1398256,
+      "date": 132524132593067950
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 132523660692700608
+      "date": 132524132592998129
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_TEXTURE.PNG.DDS",
-      "size": 2796344,
-      "date": 132523660698799138
+      "size": 699192,
+      "date": 132524132586309865
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_ASFALT_TEXTURE.PNG.DDS.json",
       "size": 102,
-      "date": 132523660698759243
+      "date": 132524132586299894
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_EMISSIVE.PNG.DDS",
       "size": 699192,
-      "date": 132523660694158110
+      "date": 132524132584830094
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 132523660694138161
+      "date": 132524132584820118
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_MAIN.PNG.DDS",
       "size": 1398256,
-      "date": 132523660668376613
+      "date": 132524132583239836
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_MAIN.PNG.DDS.json",
       "size": 119,
-      "date": 132523660668346691
+      "date": 132524132583179991
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132523660690670983
+      "date": 132524132592499469
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132523660690651036
+      "date": 132524132592479517
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_ROUGH.PNG.DDS",
       "size": 1398276,
-      "date": 132523660690197076
+      "date": 132524132599770681
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_OKNA_TEXTURE_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132523660690177123
+      "date": 132524132599720312
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_EMISSIVE.PNG.DDS",
-      "size": 11184952,
-      "date": 132523660683266803
+      "size": 699192,
+      "date": 132524132581680247
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_EMISSIVE.PNG.DDS.json",
       "size": 102,
-      "date": 132523660683167071
+      "date": 132524132581620407
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_MAIN.PNG.DDS",
-      "size": 22369776,
-      "date": 132523660716190052
+      "size": 1398256,
+      "date": 132524132594514079
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_MAIN.PNG.DDS.json",
       "size": 119,
-      "date": 132523660715910800
+      "date": 132524132594444266
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_NORM.PNG.DDS",
-      "size": 22369776,
-      "date": 132523660798255291
+      "size": 1398256,
+      "date": 132524132600279338
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 132523660798035878
+      "date": 132524132600199553
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_ROUGH.PNG.DDS",
-      "size": 22369796,
-      "date": 132523660792301149
+      "size": 1398276,
+      "date": 132524132592090567
     },
     {
       "path": "scenery/TEXTURE/DWORZEC_TEXTURE_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132523660792035560
+      "date": 132524132592080591
     },
     {
       "path": "scenery/TEXTURE/MASZT_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132523663448341472
+      "date": 132524132575573839
     },
     {
       "path": "scenery/TEXTURE/MASZT_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132523663448311552
+      "date": 132524132575553888
     },
     {
       "path": "scenery/TEXTURE/MASZT_ROUGH.PNG.DDS",
       "size": 1398276,
-      "date": 132523663453853076
+      "date": 132524132580692896
     },
     {
       "path": "scenery/TEXTURE/MASZT_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132523663453823157
+      "date": 132524132580672944
     },
     {
       "path": "scenery/TEXTURE/MASZT_TEXTURE.PNG.DDS",
       "size": 1398256,
-      "date": 132523663447678193
+      "date": 132524132574854607
     },
     {
       "path": "scenery/TEXTURE/MASZT_TEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132523663447648272
+      "date": 132524132574834655
     },
     {
       "path": "scenery/TEXTURE/STADION_NORM.PNG.DDS",
       "size": 5592560,
-      "date": 132523663466745753
+      "date": 132524132613592414
     },
     {
       "path": "scenery/TEXTURE/STADION_NORM.PNG.DDS.json",
       "size": 177,
-      "date": 132523663466690725
+      "date": 132524132613497611
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_NORM.PNG.DDS",
       "size": 1398256,
-      "date": 132523663454461425
+      "date": 132524132602014697
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_NORM.PNG.DDS.json",
       "size": 160,
-      "date": 132523663454431505
+      "date": 132524132601994749
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_ROUGH.PNG.DDS",
       "size": 1398276,
-      "date": 132523663464725252
+      "date": 132524132611587382
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132523663464705301
+      "date": 132524132611577397
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_TEXTURE.PNG.DDS",
       "size": 1398256,
-      "date": 132523663468257837
+      "date": 132524132615053654
     },
     {
       "path": "scenery/TEXTURE/STADION_OUT_TEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132523663468227915
+      "date": 132524132614983837
     },
     {
       "path": "scenery/TEXTURE/STADION_ROUGH.PNG.DDS",
       "size": 5592580,
-      "date": 132523663486803163
+      "date": 132524132632993665
     },
     {
       "path": "scenery/TEXTURE/STADION_ROUGH.PNG.DDS.json",
       "size": 191,
-      "date": 132523663486753301
+      "date": 132524132632933810
     },
     {
       "path": "scenery/TEXTURE/STADION_TEXTURE.PNG.DDS",
       "size": 5592560,
-      "date": 132523663459418850
+      "date": 132524132606522133
     },
     {
       "path": "scenery/TEXTURE/STADION_TEXTURE.PNG.DDS.json",
       "size": 119,
-      "date": 132523663459359009
+      "date": 132524132606432378
     }
   ]
 }
