@@ -6,6 +6,7 @@ Added:
 - PKS bus station building
 - Suzuki Arena stadium
 - Radio mast on the Telegraf mountain
+- "Kadzielnia" amphitheater
 
 
 How to install?
