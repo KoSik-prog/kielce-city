@@ -11,3 +11,5 @@ Added:
 
 How to install?
 Copy the "kielce" directory to the Community directory
+
+![alt text](kielce_msfs.jpg)
